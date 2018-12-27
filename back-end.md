@@ -8,7 +8,7 @@ Github, Bitbucket...).
 Functional spec
 ---------------
 
-Prototype the following projects:
+Prototype *one* of the following projects:
 
 1. Shipping couriers architecture
 2. Data processor architecture 
