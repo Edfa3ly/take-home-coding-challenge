@@ -38,3 +38,4 @@ Coding Challenge
 
 * [Back-end coding challenge.](back-end.md)
 * [Front-end coding challenge.](front-end.md)
+* [QA coding challenge.](QA.md)
