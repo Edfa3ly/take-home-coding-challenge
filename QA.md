@@ -47,7 +47,7 @@ Edfa3ly Shopping Cart Link: https://www.edfa3ly.com/cart
 
 
 Challenge Description
-----------------------
+---------------------
 
 1- Write test cases for each of the following scenarios (BDD technique is preferred):
 
@@ -81,3 +81,7 @@ Expected Deliverables
 
 4- README file for how to run.
  
+How will we review?
+-------------------
+ 
+[Guidelines can be found here](README.md)
