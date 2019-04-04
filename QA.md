@@ -14,7 +14,7 @@ The Edfa3ly shopping cart is your way to submit an order, by adding product URL 
 There’re two types of stores, automated stores, and non-automated ones.
 * Automated stores like (Amazon, eBay, Ralph Lauren, GAP …etc.) by adding product URL from one of these stores, the product details like price, name, color, etc… will be filled automatically in the cart fields.
 
-* Non-automated stores like (Addidas) after adding product URL from one of these stores, the user has to fill all product details in cart fields.
+* Non-automated stores like (Addidas) after adding product URL from one of these stores, the user has to fill all product required details in cart fields.
 
 There’re some prohibited products that we can’t order from our site. Also, there’re some products which take delivery time than the expected to the customer.
 
