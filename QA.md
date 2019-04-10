@@ -58,9 +58,9 @@ Challenge Description
 *  Adding non-automated products, then editing in the products details.
     * https://www.adidas.com/us/nite-jogger-shoes/CG5950.html
 
-2- Write an automation test to simulate the blew scenarios functionality.
+2- Write an automation test to simulate the below scenarios functionality.
 
-* Adding only two items from the blew list
+* Adding only two items from the below list
     * http://www.amazon.com/dp/B01DBGVB7K/ref=twister_dp_update?ie=UTF8&psc=1
     * http://www.amazon.com/dp/B07MTLF74C/ref=twister_dp_update?ie=UTF8&psc=1
     * http://www.amazon.com/dp/B06XK2SVFP/ref=twister_dp_update?ie=UTF8&psc=1
