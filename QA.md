@@ -30,8 +30,6 @@ Edfa3ly cart functionalities
    
    3- Deleting an item.
    
-   4- Applying the final cost or not.
-
 Edfa3ly cart rules are
 ----------------------
 
@@ -61,13 +59,10 @@ Challenge Description
 2- Write an automation test to simulate the below scenarios functionality.
 
 * Adding only two items from the below list
-    * http://www.amazon.com/dp/B01DBGVB7K/ref=twister_dp_update?ie=UTF8&psc=1
-    * http://www.amazon.com/dp/B07MTLF74C/ref=twister_dp_update?ie=UTF8&psc=1
-    * http://www.amazon.com/dp/B06XK2SVFP/ref=twister_dp_update?ie=UTF8&psc=1
-    * http://www.amazon.com/dp/B07C1LPMRQ/ref=twister_dp_update?ie=UTF8&psc=1
+    * https://www.6pm.com/p/product/9409514
 
 * Assert the message that will be shown while trying to add the below link
-    * https://www.nike.com/t/air-max-deluxe-se-mens-shoe-TLtmJ0/AO8284-001
+    * https://www.etsy.com/listing/721419995/square-metal-coffee-table-legs-metal?ref=hp_prn&bes=1
 
   
 Expected Deliverables
