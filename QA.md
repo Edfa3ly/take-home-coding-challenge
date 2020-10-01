@@ -17,8 +17,7 @@ There’re two types of stores, automated stores, and non-automated ones.
 
 * Non-automated stores like (Adidas) after adding product URL from one of these stores, the user has to fill all product required details in cart fields.
 
-There’re some prohibited products that we can’t order from our site. Also, there’re some products which take delivery time than the expected to the customer.
-
+There’re some prohibited products that we can’t order from our site.
 
 Edfa3ly cart functionalities
 ----------------------------
@@ -29,7 +28,7 @@ Edfa3ly cart functionalities
    
 Edfa3ly cart rules are
 ----------------------
-   1. User can’t edit the automated details except for the item price with only some stores.
+   1. User can’t edit the automated details except for the item price.
    1. Product quantity mustn’t exceed 5.
    1. Item URL, name, category, price are required.
 
