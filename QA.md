@@ -66,6 +66,8 @@ Challenge Description
 Expected Deliverables
 ---------------------
 
+1- Create a detailed bug with clear and repeatable steps, if found.
+
 1- Write test cases for the above scenarios.
 
 2- Recommended tool is Selenium WebDriver with any programming language.
