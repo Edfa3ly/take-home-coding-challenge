@@ -12,11 +12,12 @@ Cart Business Overview
 The Edfa3ly shopping cart is your way to submit an order, by adding product URL which has been gotten from any store like Amazon, eBay, etc… to the cart then check out the cart.
 
 There’re two types of stores, automated stores, and non-automated ones.
+
 * Automated stores like (Amazon, eBay, Ralph Lauren, GAP …etc.) by adding product URL from one of these stores, the product details like price, name, color, etc… will be filled automatically in the cart fields.
 
 * Non-automated stores like (Adidas) after adding product URL from one of these stores, the user has to fill all product required details in cart fields.
 
-There’re some prohibited products that we can’t order from our site.
+There’re some prohibited products that we can’t order from our site. Also, there’re some products which take delivery time than the expected to the customer.
 
 
 Edfa3ly cart functionalities
@@ -28,10 +29,9 @@ Edfa3ly cart functionalities
    
 Edfa3ly cart rules are
 ----------------------
-   
+   1. User can’t edit the automated details except for the item price with only some stores.
    1. Product quantity mustn’t exceed 5.
    1. Item URL, name, category, price are required.
-
 
 
 Edfa3ly Shopping Cart Link: https://www.edfa3ly.com/cart
