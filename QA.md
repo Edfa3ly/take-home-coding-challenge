@@ -44,7 +44,7 @@ Challenge Description
 1. Non-automated products links
 	* https://www.adidas.com/us/nite-jogger-shoes/CG5950.html
 1. Prohibited product link
-	* https://www.etsy.com/listing/721419995/square-metal-coffee-table-legs-metal?ref=hp_prn&bes=1
+	* https://www.abercrombie.com/shop/wd/p/skinny-suede-belt-41330319?categoryId=12266&seq=02&faceout=prod1
     * https://www.goat.com/sneakers/shane-sb-premium-light-orewood-brown-cv5500-200
   
 Expected Deliverables
