@@ -14,11 +14,9 @@ The Edfa3ly shopping cart is your way to submit an order, by adding product URL 
 There’re two types of stores, automated stores, and non-automated ones.
 * Automated stores like (Amazon, eBay, Ralph Lauren, GAP …etc.) by adding product URL from one of these stores, the product details like price, name, color, etc… will be filled automatically in the cart fields.
 
-* Non-automated stores like (Addidas) after adding product URL from one of these stores, the user has to fill all product required details in cart fields.
+* Non-automated stores like (Adidas) after adding product URL from one of these stores, the user has to fill all product required details in cart fields.
 
 There’re some prohibited products that we can’t order from our site. Also, there’re some products which take delivery time than the expected to the customer.
-
-The user can pay the whole order once, by choosing to apply the final cost feature (We give him full up-front calculations including shipping price) form the cart. Otherwise, the user can pay shipping fees when receiving.
 
 
 Edfa3ly cart functionalities
@@ -47,18 +45,18 @@ Edfa3ly Shopping Cart Link: https://www.edfa3ly.com/cart
 Challenge Description
 ---------------------
 
-1- Write test cases for each of the following scenarios (BDD technique is preferred):
+1- Write test cases for each of the following scenarios:
 
 *  Adding two automated products, then deleting one of them.
-    * http://www.amazon.com/dp/B01DBGVB7K/ref=twister_dp_update?ie=UTF8&psc=1
-    * http://www.amazon.com/dp/B07MTLF74C/ref=twister_dp_update?ie=UTF8&psc=1
+    * https://www.6pm.com/p/product/9409514
+    * https://www.shein.com/CUCCOO-The-Everyone-Sneakers-p-1187851-cat-1913.html
     
 *  Adding non-automated products, then editing in the products details.
     * https://www.adidas.com/us/nite-jogger-shoes/CG5950.html
 
 2- Write an automation test to simulate the below scenarios functionality.
 
-* Adding only two items from the below list
+* Add the below item
     * https://www.6pm.com/p/product/9409514
 
 * Assert the message that will be shown while trying to add the below link
@@ -68,13 +66,15 @@ Challenge Description
 Expected Deliverables
 ---------------------
 
-1- Recommended tool is Selenium WebDriver with any programming language.
+1- Write test cases for the above scenarios.
 
-2- A documentation of the code workflow is mandatory.
+2- Recommended tool is Selenium WebDriver with any programming language.
 
-3- Should be executed on Chrome, Firefox and Safari (two of them is minimum).
+3- A documentation of the code workflow is mandatory.
 
-4- README file for how to run.
+4- Should be executed on Chrome, Firefox and Safari.
+
+5- README file for how to run.
  
 How will we review?
 -------------------
