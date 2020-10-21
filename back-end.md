@@ -42,8 +42,8 @@ Subtotal: $66.96
 Taxes: $9.37
 Discounts:
 	10% off shoes: -$2.499
-	50% off jacket: -$12.495
-Total: $61.336
+	50% off jacket: -$9.995
+Total: $63.8404
 ```
 
 Another, e.g., If none of the offers are eligible, the user selected the EGP bill:
