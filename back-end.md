@@ -81,3 +81,19 @@ Github, Bitbucket, etc.).
  
 ### How will we review?
 [Guidelines can be found here](README.md)
+
+---
+#### Frequently asked questions 
+
+##### Q: I have a more robust background in other languages than PHP. Can I use it to complete the task?
+###### A: Yes, although the task endorses PHP as a requirement, we still believe that the best engineers are language agnostic. PHP reflects the primary language in our stack, which you'll be using daily.
+
+##### Q: Can I use framework X to implement the task, use external libraries/dependencies, or shall I write the code in plain PHP?
+###### A: The task itself doesn't require a specific framework to complete the task, nor using a framework breaks the requirements; however, with a deeper understanding of the task, you can make this decision on your own. Also, your choice of using any external libraries is considered as a part of our code review (Refer to "How will we review?" section)
+
+##### Q: I currently work at a full-time job/Is there a deadline to deliver it?
+###### A: Although there's NO deadline, we endorse having you take a good look at the task, send us back your best estimate of delivery, which can show us your commitment level without putting any pressure on your schedules.
+
+##### Q: Shall I use any persistent layer to manage stuff like products or currencies?
+###### A: This doesn't come as a requirement; however, we value using practices like configurations/fixtures to control these stuff, rather than adding some admin panel to enter these data. 
+
