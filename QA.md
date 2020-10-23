@@ -62,3 +62,9 @@ How will we review?
 -------------------
  
 [Guidelines can be found here](README.md)
+
+---
+#### Frequently asked questions 
+
+##### Q: I currently work at a full-time job/Is there a deadline to deliver it?
+###### A: Although there's NO deadline, we endorse having you take a good look at the task, send us back your best estimate of delivery, which can show us your commitment level without putting any pressure on your schedules.
