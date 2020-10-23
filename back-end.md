@@ -95,5 +95,7 @@ Github, Bitbucket, etc.).
 ###### A: Although there's NO deadline, we endorse having you take a good look at the task, send us back your best estimate of delivery, which can show us your commitment level without putting any pressure on your schedules.
 
 ##### Q: Shall I use any persistent layer to manage stuff like products or currencies?
-###### A: This doesn't come as a requirement; however, we value using practices like configurations/fixtures to control these stuff, rather than adding some admin panel to enter these data. 
+###### A: This doesn't come as a requirement; however, we value using practices like configurations/fixtures to control these stuff, rather than adding some admin panel to enter these data.
 
+##### Q: Do I need to provide a working interface to represent the task? Can I use a ready-made library that implements all the required functionalities?
+###### A: No, the task is clearly about assessing your technical knowledge and problem solving from a design and architecture point of view; not showing this means you are failing the task requirements.
