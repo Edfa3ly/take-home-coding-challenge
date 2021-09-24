@@ -32,9 +32,3 @@ Bonus point (those items are optional):
 * **UX**: is the web interface understandable and pleasing to use? Is the API intuitive?
 * **Scalability**: will technical choices scale well? If not, is there a discussion of those choices in the README? 
 * **Production-readiness**: does the code include monitoring? logging? proper error handling?
-
-Coding Challenge
-----------------
-
-* [Back-end coding challenge.](back-end.md)
-* [QA coding challenge.](QA.md)
