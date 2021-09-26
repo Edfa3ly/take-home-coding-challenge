@@ -109,7 +109,7 @@ Github, Bitbucket, etc.). **Reply** with the repo link to the **email** we sent.
 #### Frequently asked questions 
 
 ##### Q: I got confused on how to calculate an item price and its shipping and VAT
-###### A: You can use the following table as a complete reference 
+###### A: You can use the following table as a complete reference (DO NOT HARDCODE ANY CALCULATED VALUES) 
 |Item type|Country|Item price|Weight|Rate |Shipping|VAT|
 | -------- | -------- | -------- | -------- | -------- | -------- |-------- |
 |T-shirt |US|$30.99|0.2|$2|$4|$4.3386|
